@@ -2,4 +2,4 @@
 
 ...
 
-- [ ] I have read the **[CONTRIBUTING](CONTRIBUTING.md)** document.
+- [ ] I have read the **[CONTRIBUTING](https://github.com/owenvoke/.github/blob/master/CONTRIBUTING.md)** document.
