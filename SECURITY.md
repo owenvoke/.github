@@ -4,7 +4,7 @@ If you believe you have found a security vulnerability in any of my repositories
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-Instead, please send an email to security[@]voke.dev or through [GitHub's security advisories](../../security/advisories) (if enabled on the repository).
+Instead, please send an email to security[@]voke.dev or through **GitHub's security advisories** (if enabled on the repository).
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
